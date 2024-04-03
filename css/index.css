@@ -65,8 +65,30 @@ a.active {
     font-weight: 300;
 }
 
-.images {
-    padding: 10px;
-    margin-left: 55px;
-    margin-right: 22px;
+h3 {
+    font-weight: 300;
+    font-size: 40px;
+    margin-left: 61px;
+    margin-right: 50px;
+}
+
+.colab {
+    border-bottom: 3px solid black;
+    width: 400px;
+    margin-bottom: 0;
+    padding-bottom: 8px;
+}
+
+#contact {
+    margin-left: 61px;
+    margin-bottom: 0;
+}
+
+.number {
+    margin-top: 0;
+}
+
+p {
+    margin-bottom: 250px;
+    margin-left: 61px;
 }
