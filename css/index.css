@@ -121,7 +121,9 @@ body {
         justify-content: center;
     }
 
-    h3 {
+    .abt {
+        width: 100vw;
+        max-width: 90%;
         font-size: 30px !important;
     }
   }
